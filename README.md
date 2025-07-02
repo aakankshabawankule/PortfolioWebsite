@@ -16,5 +16,5 @@ This project is a part of my personal portfolio website. It features an animated
 - HTML5
 - CSS3 (Animations, Keyframes, Transitions)
 
-## 🖼️ Preview
+
 
